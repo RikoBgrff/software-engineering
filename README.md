@@ -1,4 +1,4 @@
-THIS REPOSITORY CONTAINS "Software Engineering Term Project" files.
+This Repository Contains "Software Engineering Term Project" files.
 Author is Group No 10.
 Subject is Online Clinic Appointment System
 You can access files under this repository.
