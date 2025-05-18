@@ -1,0 +1,86 @@
+1.System Design Document Designed by Arifali Baghirli
+2.Software Requirements Specification Members and their Contributions:
+1. Arifali Baghirli - 210201848
+1.1 Purpose
+1.2 Scope
+2.1 Product Perspective
+2.2 Product Functions
+3.3 Non-functional Requirements
+Performance
+Maintainability
+Security
+
+2. Zoher Matar - 210201919
+1.3 Definitions, Acronyms, and Abbreviations
+2.3 User Classes and Characteristics
+3.3 Non-functional Requirements
+Usability
+Portability
+
+3. Yahye Said Abdi - 210201922
+1.4 References
+2.4 Operating Environment
+3.2 External Interface Requirements
+Hardware Interfaces
+Communication Interfaces
+
+4. Bashir Tayani - 220201812
+1.5 Overview (of the document)
+2.5 Design and Implementation Constraints
+3.2 External Interface Requirements
+Software Interfaces
+
+5. Abdulbari Abdulghani Ahmed Leftesi - 220201877
+2.6 User Documentation
+3.3 Non-functional Requirements
+Reliability
+
+6. Ramiz Shafiyev - 220201988
+2.7 Assumptions and Dependencies
+3.2 External Interface Requirements
+User Interfaces
+
+7. Bashar Ali Mohamed Osman - 220201863
+3.1 Functional Requirements (Part 1 — some modules/use cases)
+8. Ahmed Mohamed Ahmed – 200201874
+3.1 Functional Requirements (Part 2 — remaining modules/use cases)
+
+
+
+
+1. Arifali Baghirli - 210201848 
+Introduction
+Purpose of testing
+Target audience
+Test Plan
+Testing types: Unit, Integration, System, UAT
+Tools: xUnit, Postman, Swagger, Selenium
+Test environment setup
+
+2. Zoher Matar - 210201919
+3. Test Scenarios and Cases
+ID, Description, Input, Expected Output
+
+3. Yahye Said Abdi - 210201922
+3. Test Scenarios and Cases
+Actual Output, Status
+
+4. Bashir Tayani - 220201812
+4. Test Data
+Patients, Appointments
+
+5. Abdulbari Abdulghani Ahmed Leftesi - 220201877
+4. Test Data
+Logins, Registrations
+
+6. Ramiz Shafiyev - 22020198
+5. Bug Tracking and Reporting
+Bug report template
+
+7. Bashar Ali Mohamed Osman - 220201863
+5. Bug Tracking and Reporting
+Severity levels
+
+8. Ahmed Mohamed Ahmed – 200201874
+6. Summary and Acceptance Criteria
+When is the system considered tested and complete?
